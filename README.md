@@ -16,6 +16,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Node.js and npm installed on your machine.
 - MongoDB installed and running.
+- 
 
 ## Getting Started
 
@@ -36,3 +37,4 @@ Before you begin, ensure you have met the following requirements:
 ## Authors
 - [Shirish Shetty](https://github.com/SHIRISH-30)
 - [Parth Dabholkar](https://github.com/Parth-Dabholkar)
+- [Anmol Tripathi](https://github.com/Anmol-03)
